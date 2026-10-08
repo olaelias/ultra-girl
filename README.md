@@ -10,7 +10,7 @@ What begins as a simple platforming challenge gradually evolves into a demanding
  
 🎮 **Play Ultra Girl in your browser**
  
-https://olaeliaswork.github.io/ultra-girl/
+[https://olaeliaswork.github.io/ultra-girl/](https://olaelias.github.io/ultra-girl/)
 
 ## Features
 
