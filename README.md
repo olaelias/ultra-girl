@@ -77,4 +77,4 @@ Development assistance provided by AI tools.
 
 This project is provided for educational and experimental purposes.
 
-Feel free to explore the source code, learn from it, and build your own ideas upon 
+Feel free to explore the source code, learn from it, and build your own ideas upon it.
