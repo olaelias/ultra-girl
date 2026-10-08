@@ -5,7 +5,7 @@
 Run, jump, shoot, and survive through an increasingly challenging adventure featuring procedurally generated levels, multiple world themes, original chiptune-style music, collectible powerups, and relentless enemy waves.
 
 What begins as a simple platforming challenge gradually evolves into a demanding test of reflexes and perseverance.
-![Screenshot](Ultra Girl screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Play Online
  
