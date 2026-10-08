@@ -1,6 +1,6 @@
 # Ultra Girl
 
-**Ultra Girl** is a retro-inspired action platformer created as an AI-assisted game development experiment.
+**Ultra Girl** is a retro-inspired action platformer created as an AI-assisted game development project.
 
 Run, jump, shoot, and survive through an increasingly challenging adventure featuring procedurally generated levels, multiple world themes, original chiptune-style music, collectible powerups, and relentless enemy waves.
 
